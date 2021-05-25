@@ -766,3 +766,30 @@ ls
 setsebool -P httpd_execmem=1
 sudo setsebool -P httpd_execmem=1
 sudo systemctl restart httpd
+ls
+php -v
+ls
+sudo tail -f /var/log/httpd/access_log
+ls
+git config --global user.name "t-ateya"
+git config --global user.email ateyaterence@gmail.com
+git config --list
+git clone https://github.com/t-ateya/darey.io-proj-9.git
+ls
+sudo rm -r darey.io-proj-9
+ls
+git clone https://github.com/t-ateya/Proj9.git
+ls
+git init
+git status
+touch git.txt
+git add git.txt
+git status
+git commit -m 'first commit'
+sudo vim git.txt
+sudo vi git.txt
+git commit -m "second commit" 
+git push
+git push https://github.com/t-ateya/Proj9.git
+git push --set-upstream https://github.com/t-ateya/Proj9.git
+ls

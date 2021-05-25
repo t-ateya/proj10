@@ -7,20 +7,28 @@
 * as described in the license https://aka.ms/vscode-remote/license
 *
 
-Extension host agent listening on 40027
+Extension host agent listening on 34519
 
-[20:48:10] Extension host agent started.
-[20:48:10] [127.0.0.1][8a3b9d26][ManagementConnection] New connection established.
-[20:48:10] [127.0.0.1][854cd3a3][ExtensionHostConnection] New connection established.
-[20:48:10] [127.0.0.1][854cd3a3][ExtensionHostConnection] <9708> Launched Extension Host Process.
-[20:48:35] [127.0.0.1][8a3b9d26][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[20:48:36] [127.0.0.1][854cd3a3][ExtensionHostConnection] <9708> Extension Host Process exited with code: 0, signal: null.
+[11:57:10] Extension host agent started.
+[11:57:11] [127.0.0.1][d429b391][ManagementConnection] New connection established.
+[11:57:11] [127.0.0.1][7232de5a][ExtensionHostConnection] New connection established.
+[11:57:11] [127.0.0.1][7232de5a][ExtensionHostConnection] <1883> Launched Extension Host Process.
+[11:57:18] No ptyHost heartbeat after 6 seconds
+[12:20:18] No ptyHost heartbeat after 6 seconds
+[12:54:22] No ptyHost heartbeat after 6 seconds
+[12:54:22] [127.0.0.1][d429b391][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ec2-user/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ec2-user/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[12:54:22] [127.0.0.1][d429b391][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:54:25] [127.0.0.1][7232de5a][ExtensionHostConnection] <1883> Extension Host Process exited with code: 0, signal: null.
 Last EH closed, waiting before shutting down
-[20:48:36] Last EH closed, waiting before shutting down
-Got delay-shutdown request while in shutdown timeout, delaying
-[20:48:42] Got delay-shutdown request while in shutdown timeout, delaying
-Cancelling previous shutdown timeout
-[20:48:42] Cancelling previous shutdown timeout
-[20:48:42] [127.0.0.1][54ede709][ManagementConnection] New connection established.
-[20:48:42] [127.0.0.1][88bb8a2b][ExtensionHostConnection] New connection established.
-[20:48:42] [127.0.0.1][88bb8a2b][ExtensionHostConnection] <9806> Launched Extension Host Process.
+[12:54:25] Last EH closed, waiting before shutting down
+[12:54:26] [127.0.0.1][e69f6b82][ManagementConnection] New connection established.
+[12:54:26] [127.0.0.1][beeaf3f6][ExtensionHostConnection] New connection established.
+[12:54:26] [127.0.0.1][beeaf3f6][ExtensionHostConnection] <2105> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[12:59:25] New EH opened, aborting shutdown

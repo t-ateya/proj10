@@ -20,3 +20,13 @@
 [2021-05-24 20:48:42.683] [remoteagent] [info] [127.0.0.1][54ede709][ManagementConnection] New connection established.
 [2021-05-24 20:48:42.789] [remoteagent] [info] [127.0.0.1][88bb8a2b][ExtensionHostConnection] New connection established.
 [2021-05-24 20:48:42.810] [remoteagent] [info] [127.0.0.1][88bb8a2b][ExtensionHostConnection] <9806> Launched Extension Host Process.
+[2021-05-24 20:51:19.509] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-24 20:53:42.406] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-05-24 21:14:31.154] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-24 21:15:02.330] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-24 21:58:24.220] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-24 22:10:59.240] [remoteagent] [warning] [File Watcher (chokidar)] Watcher is busy catching up with 1 file changes in 60 seconds. Latest changed path is "/home/ec2-user/.vscode-server/data/logs/20210524T204810/remoteagent.log"
+[2021-05-24 23:01:55.540] [remoteagent] [info] [127.0.0.1][54ede709][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-24 23:01:56.575] [remoteagent] [info] [127.0.0.1][88bb8a2b][ExtensionHostConnection] <9806> Extension Host Process exited with code: 0, signal: null.
+[2021-05-24 23:01:56.575] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-05-24 23:06:56.576] [remoteagent] [info] Last EH closed, shutting down
