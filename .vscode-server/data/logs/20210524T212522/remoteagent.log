@@ -20,3 +20,6 @@
 [2021-05-24 21:25:44.498] [remoteagent] [info] [127.0.0.1][1c790819][ManagementConnection] New connection established.
 [2021-05-24 21:25:44.641] [remoteagent] [info] [127.0.0.1][ed0f7ec8][ExtensionHostConnection] New connection established.
 [2021-05-24 21:25:44.650] [remoteagent] [info] [127.0.0.1][ed0f7ec8][ExtensionHostConnection] <1757> Launched Extension Host Process.
+[2021-05-24 21:30:44.230] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-05-24 23:10:20.264] [remoteagent] [info] [127.0.0.1][1c790819][ManagementConnection] The client has reconnected.
+[2021-05-24 23:10:20.337] [remoteagent] [info] [127.0.0.1][ed0f7ec8][ExtensionHostConnection] The client has reconnected.

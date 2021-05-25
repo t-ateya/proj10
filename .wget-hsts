@@ -2,3 +2,4 @@
 # Edit at your own risk.
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
 update.code.visualstudio.com	0	0	1621891520	31536000
+pkg.jenkins.io	0	0	1621897481	300
