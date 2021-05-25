@@ -26,3 +26,7 @@ Cancelling previous shutdown timeout
 [12:07:04] [127.0.0.1][f88481cf][ExtensionHostConnection] <13247> Launched Extension Host Process.
 New EH opened, aborting shutdown
 [12:12:03] New EH opened, aborting shutdown
+[16:09:27] [127.0.0.1][c1ca1146][ManagementConnection] The client has reconnected.
+[16:10:00] [127.0.0.1][f88481cf][ExtensionHostConnection] The client has reconnected.
+[17:15:26] [127.0.0.1][c1ca1146][ManagementConnection] The client has reconnected.
+[17:15:58] [127.0.0.1][f88481cf][ExtensionHostConnection] The client has reconnected.

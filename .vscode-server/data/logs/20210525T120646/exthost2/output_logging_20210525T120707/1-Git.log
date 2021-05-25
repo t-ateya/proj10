@@ -45,3 +45,4 @@ Open repository: /home/ubuntu
 > git config --get commit.template
 > git check-ignore -v -z --stdin
 > git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
