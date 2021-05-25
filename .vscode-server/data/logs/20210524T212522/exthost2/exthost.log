@@ -22,3 +22,5 @@
 [2021-05-25 01:45:28.575] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/extension-editing/dist/extensionEditingMain
 [2021-05-25 01:45:28.615] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
 [2021-05-25 01:45:28.616] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/markdown-language-features/dist/extension
+[2021-05-25 11:48:07.047] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-25 11:48:08.073] [exthost] [info] exiting with code 0

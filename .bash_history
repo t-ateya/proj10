@@ -25,3 +25,32 @@ cd
 ls
 git comit
 git commit README.md
+ls
+sudo cat 
+cat /var/lib/jenkins/secrets/initialAdminPassword
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+ls
+git status
+git checkout -b my-features
+git status
+git add .
+git status
+git commit -m "creating a new branch"
+git push
+git remote add proj9 https://github.com/t-ateya/Jenkins.git
+git status
+git push proj9
+git push --set-upstream proj9 my-features
+git status
+git add .
+git status
+git checkout master
+git pull
+git status
+git push proj9
+git push --set-upstream proj9 master
+ls
+sudo ls -l README.md 
+sudo chmod 777 README.md 
+sudo ls -l README.md 
+ls
