@@ -18,3 +18,7 @@
 [2021-05-24 21:27:21.113] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1444
 [2021-05-24 21:27:26.199] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1444
 [2021-05-24 21:27:31.795] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1444
+[2021-05-25 01:45:28.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2021-05-25 01:45:28.575] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/extension-editing/dist/extensionEditingMain
+[2021-05-25 01:45:28.615] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-05-25 01:45:28.616] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/markdown-language-features/dist/extension
